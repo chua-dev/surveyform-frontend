@@ -1,0 +1,32 @@
+.hidden {
+  display: none;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+input, label {
+  display:block;
+}
+
+input {
+  height:28px;
+  font-size:15px;
+}
+
+label {
+  padding-top: 15px;
+}
+
+body {
+  text-align: center;
+}
+form {
+  display: inline-block;
+}
+
+button {
+  margin-top: 20px;
+}
